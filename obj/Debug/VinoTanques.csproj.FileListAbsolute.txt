@@ -1,0 +1,7 @@
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\bin\Debug\VinoTanques.exe.config
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\bin\Debug\VinoTanques.exe
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\bin\Debug\VinoTanques.pdb
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\obj\Debug\VinoTanques.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\obj\Debug\VinoTanques.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\obj\Debug\VinoTanques.exe
+C:\Users\julia\source\repos\VinoTanques\VinoTanques\obj\Debug\VinoTanques.pdb
